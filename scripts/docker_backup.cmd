@@ -1,0 +1,1 @@
+docker exec -it bukva4orik-db /scripts/backup.sh

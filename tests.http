@@ -5,8 +5,6 @@ Authorization: {{access_token}}
 
 
 ### Получение списка всех групповых чатов
-# curl -X GET "https://platform-api.max.ru/chats"
-#  -H "Authorization: {access_token}"
 GET https://platform-api.max.ru/chats
 Authorization: {{access_token}}
 

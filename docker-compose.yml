@@ -1,0 +1,19 @@
+services:
+  mariadb:
+    # MariaDB с долгосрочной поддержкой (LTS), на базе Universal Base Image 9 (UBI9) от Red Hat.
+    image: mariadb:lts-ubi9
+    container_name: bukva4orik-db
+    restart: unless-stopped
+    environment:
+      MARIADB_ROOT_PASSWORD: bukva4orik
+      # Создание базы данных при первом запуске
+      MARIADB_DATABASE: bukva4orik
+      # Создание обычного пользователя (рекомендуется для приложений)
+      MARIADB_USER: bukva4orik
+      MARIADB_PASSWORD: bukva4orik
+    ports:
+      - "8025:3306"
+    volumes:
+      - ./scripts:/scripts:ro
+      - ./backup:/backup
+      - ./db_data:/var/lib/mysql

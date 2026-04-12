@@ -1,2 +1,4 @@
 .idea
 http-client.private.env.json
+backup
+db_data

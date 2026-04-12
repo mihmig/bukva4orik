@@ -1,0 +1,909 @@
+{
+  "updates": [
+    {
+      "callback": {
+        "timestamp": 1775991123341,
+        "callback_id": "f9LHodD0cOJbh5-ZyZFI9J2L00uvTO0pdXJWPzMDiRdhqXJWiTeuA2x6bMiigrkc8buROyqMNGlg-ZH3zA1LpN4MU6UW0KXumiLe9nmrDVe3IOcpzm9E",
+        "user": {
+          "user_id": 138414350,
+          "first_name": "Сергей",
+          "last_name": "Сберов",
+          "is_bot": false,
+          "last_activity_time": 1776019765000,
+          "name": "Сергей Сберов"
+        },
+        "payload": "yes"
+      },
+      "message": {
+        "recipient": {
+          "chat_id": 101599581,
+          "chat_type": "dialog",
+          "user_id": 138414350
+        },
+        "timestamp": 1775990744216,
+        "body": {
+          "mid": "mid.00000000060e495d019d814c24987f50",
+          "seq": 116391329412972368,
+          "text": "Это сообщение с кнопкой-ссылкой",
+          "attachments": [
+            {
+              "payload": {
+                "buttons": [
+                  [
+                    {
+                      "payload": "yes",
+                      "text": "Да",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ]
+                ]
+              },
+              "type": "inline_keyboard"
+            }
+          ]
+        },
+        "sender": {
+          "user_id": 240009299,
+          "first_name": "Буква4орик",
+          "username": "id290301014391_3_bot",
+          "is_bot": true,
+          "last_activity_time": 1776020554178,
+          "name": "Буква4орик"
+        }
+      },
+      "timestamp": 1775991123341,
+      "user_locale": "ru",
+      "update_type": "message_callback"
+    },
+    {
+      "callback": {
+        "timestamp": 1775991177610,
+        "callback_id": "f9LHodD0cOLg9U8cq0jTmrUB5oLBNczzb_pYOA0E7KGCRG5X87tqAreCGh_zNJMcTWRRXlYcvuTO6n8j8NG13-IhIb-nSBW-L_nhZlqndRfJdwgb-B5G",
+        "user": {
+          "user_id": 6084416,
+          "first_name": "Андрей",
+          "last_name": "Самойлов",
+          "is_bot": false,
+          "last_activity_time": 1776020047000,
+          "name": "Андрей Самойлов"
+        },
+        "payload": "yes"
+      },
+      "message": {
+        "recipient": {
+          "chat_id": 236099347,
+          "chat_type": "dialog",
+          "user_id": 6084416
+        },
+        "timestamp": 1775991142883,
+        "body": {
+          "mid": "mid.000000000e129713019d815239e31c45",
+          "seq": 116391355539987525,
+          "text": "Это сообщение с клавиатурой\nInline-клавиатура может иметь до 210 кнопок, сгруппированных в 30 рядов — до 7 кнопок в каждом\n(до 3, если это кнопки типа link, openapp, requestgeolocation или requestcontact).",
+          "attachments": [
+            {
+              "payload": {
+                "buttons": [
+                  [
+                    {
+                      "payload": "yes",
+                      "text": "✅ Да",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "no",
+                      "text": "❌ Нет",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ],
+                  [
+                    {
+                      "payload": "1",
+                      "text": "1",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "2",
+                      "text": "2",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "3",
+                      "text": "3",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "4",
+                      "text": "4",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "5",
+                      "text": "5",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "6",
+                      "text": "6",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "7",
+                      "text": "7",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ]
+                ]
+              },
+              "type": "inline_keyboard"
+            }
+          ]
+        },
+        "sender": {
+          "user_id": 240009299,
+          "first_name": "Буква4орик",
+          "username": "id290301014391_3_bot",
+          "is_bot": true,
+          "last_activity_time": 1776020554182,
+          "name": "Буква4орик"
+        }
+      },
+      "timestamp": 1775991177610,
+      "user_locale": "ru",
+      "update_type": "message_callback"
+    },
+    {
+      "callback": {
+        "timestamp": 1775991178487,
+        "callback_id": "f9LHodD0cOK24aGDghgsGCwor1kVNCocwxPW8PgmHVlRntjWXWy_Bewdiiyw2yWYWrekyYuDwM2xMsAJCV8Xtv80u7XnrQubGsu_FeyAUKDkiXK1bMoz",
+        "user": {
+          "user_id": 6084416,
+          "first_name": "Андрей",
+          "last_name": "Самойлов",
+          "is_bot": false,
+          "last_activity_time": 1776020047000,
+          "name": "Андрей Самойлов"
+        },
+        "payload": "4"
+      },
+      "message": {
+        "recipient": {
+          "chat_id": 236099347,
+          "chat_type": "dialog",
+          "user_id": 6084416
+        },
+        "timestamp": 1775991142883,
+        "body": {
+          "mid": "mid.000000000e129713019d815239e31c45",
+          "seq": 116391355539987525,
+          "text": "Это сообщение с клавиатурой\nInline-клавиатура может иметь до 210 кнопок, сгруппированных в 30 рядов — до 7 кнопок в каждом\n(до 3, если это кнопки типа link, openapp, requestgeolocation или requestcontact).",
+          "attachments": [
+            {
+              "payload": {
+                "buttons": [
+                  [
+                    {
+                      "payload": "yes",
+                      "text": "✅ Да",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "no",
+                      "text": "❌ Нет",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ],
+                  [
+                    {
+                      "payload": "1",
+                      "text": "1",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "2",
+                      "text": "2",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "3",
+                      "text": "3",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "4",
+                      "text": "4",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "5",
+                      "text": "5",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "6",
+                      "text": "6",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "7",
+                      "text": "7",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ]
+                ]
+              },
+              "type": "inline_keyboard"
+            }
+          ]
+        },
+        "sender": {
+          "user_id": 240009299,
+          "first_name": "Буква4орик",
+          "username": "id290301014391_3_bot",
+          "is_bot": true,
+          "last_activity_time": 1776020554184,
+          "name": "Буква4орик"
+        }
+      },
+      "timestamp": 1775991178487,
+      "user_locale": "ru",
+      "update_type": "message_callback"
+    },
+    {
+      "callback": {
+        "timestamp": 1775991179056,
+        "callback_id": "f9LHodD0cOIGn3o9tfbObKwq_PLsKwlfnXdNaH-OJvqiI7HREJuo4NGbW-6HH-_p3DE9yg8uNIb4YYHxDLEA2eDm_dgRhest6y0KZ5pHH9cunnRUF8cY",
+        "user": {
+          "user_id": 6084416,
+          "first_name": "Андрей",
+          "last_name": "Самойлов",
+          "is_bot": false,
+          "last_activity_time": 1776020047000,
+          "name": "Андрей Самойлов"
+        },
+        "payload": "no"
+      },
+      "message": {
+        "recipient": {
+          "chat_id": 236099347,
+          "chat_type": "dialog",
+          "user_id": 6084416
+        },
+        "timestamp": 1775991142883,
+        "body": {
+          "mid": "mid.000000000e129713019d815239e31c45",
+          "seq": 116391355539987525,
+          "text": "Это сообщение с клавиатурой\nInline-клавиатура может иметь до 210 кнопок, сгруппированных в 30 рядов — до 7 кнопок в каждом\n(до 3, если это кнопки типа link, openapp, requestgeolocation или requestcontact).",
+          "attachments": [
+            {
+              "payload": {
+                "buttons": [
+                  [
+                    {
+                      "payload": "yes",
+                      "text": "✅ Да",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "no",
+                      "text": "❌ Нет",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ],
+                  [
+                    {
+                      "payload": "1",
+                      "text": "1",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "2",
+                      "text": "2",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "3",
+                      "text": "3",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "4",
+                      "text": "4",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "5",
+                      "text": "5",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "6",
+                      "text": "6",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "7",
+                      "text": "7",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ]
+                ]
+              },
+              "type": "inline_keyboard"
+            }
+          ]
+        },
+        "sender": {
+          "user_id": 240009299,
+          "first_name": "Буква4орик",
+          "username": "id290301014391_3_bot",
+          "is_bot": true,
+          "last_activity_time": 1776020554185,
+          "name": "Буква4орик"
+        }
+      },
+      "timestamp": 1775991179056,
+      "user_locale": "ru",
+      "update_type": "message_callback"
+    },
+    {
+      "callback": {
+        "timestamp": 1775991560229,
+        "callback_id": "f9LHodD0cOKtLIG2ig7_pCE7mSMhGhwHcCSs6gS7bGistqQiz2Ov0NNIIlpqCeXmbdyOmA0mS6l6LtQwGA6GUHUdyPZAZ1Aq-abnuNawzRE-FYZSP6KG",
+        "user": {
+          "user_id": 6084416,
+          "first_name": "Андрей",
+          "last_name": "Самойлов",
+          "is_bot": false,
+          "last_activity_time": 1776020047000,
+          "name": "Андрей Самойлов"
+        },
+        "payload": "no"
+      },
+      "message": {
+        "recipient": {
+          "chat_id": 236099347,
+          "chat_type": "dialog",
+          "user_id": 6084416
+        },
+        "timestamp": 1775991142883,
+        "body": {
+          "mid": "mid.000000000e129713019d815239e31c45",
+          "seq": 116391355539987525,
+          "text": "Это сообщение с клавиатурой\nInline-клавиатура может иметь до 210 кнопок, сгруппированных в 30 рядов — до 7 кнопок в каждом\n(до 3, если это кнопки типа link, openapp, requestgeolocation или requestcontact).",
+          "attachments": [
+            {
+              "payload": {
+                "buttons": [
+                  [
+                    {
+                      "payload": "yes",
+                      "text": "✅ Да",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "no",
+                      "text": "❌ Нет",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ],
+                  [
+                    {
+                      "payload": "1",
+                      "text": "1",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "2",
+                      "text": "2",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "3",
+                      "text": "3",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "4",
+                      "text": "4",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "5",
+                      "text": "5",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "6",
+                      "text": "6",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "7",
+                      "text": "7",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ]
+                ]
+              },
+              "type": "inline_keyboard"
+            }
+          ]
+        },
+        "sender": {
+          "user_id": 240009299,
+          "first_name": "Буква4орик",
+          "username": "id290301014391_3_bot",
+          "is_bot": true,
+          "last_activity_time": 1776020554214,
+          "name": "Буква4орик"
+        }
+      },
+      "timestamp": 1775991560229,
+      "user_locale": "ru",
+      "update_type": "message_callback"
+    },
+    {
+      "callback": {
+        "timestamp": 1775991561320,
+        "callback_id": "f9LHodD0cOI8TW6o5lagN_hKo7lNOeExDdMgwFe25p46KDlUZrcrkI8UvKsG7-Xld1HbDYFs5OcYTG9V8eGyQ2JZI7xiUkbDB1pkzF84rX2ow8TS2u01",
+        "user": {
+          "user_id": 6084416,
+          "first_name": "Андрей",
+          "last_name": "Самойлов",
+          "is_bot": false,
+          "last_activity_time": 1776020047000,
+          "name": "Андрей Самойлов"
+        },
+        "payload": "yes"
+      },
+      "message": {
+        "recipient": {
+          "chat_id": 236099347,
+          "chat_type": "dialog",
+          "user_id": 6084416
+        },
+        "timestamp": 1775991142883,
+        "body": {
+          "mid": "mid.000000000e129713019d815239e31c45",
+          "seq": 116391355539987525,
+          "text": "Это сообщение с клавиатурой\nInline-клавиатура может иметь до 210 кнопок, сгруппированных в 30 рядов — до 7 кнопок в каждом\n(до 3, если это кнопки типа link, openapp, requestgeolocation или requestcontact).",
+          "attachments": [
+            {
+              "payload": {
+                "buttons": [
+                  [
+                    {
+                      "payload": "yes",
+                      "text": "✅ Да",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "no",
+                      "text": "❌ Нет",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ],
+                  [
+                    {
+                      "payload": "1",
+                      "text": "1",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "2",
+                      "text": "2",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "3",
+                      "text": "3",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "4",
+                      "text": "4",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "5",
+                      "text": "5",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "6",
+                      "text": "6",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "7",
+                      "text": "7",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ]
+                ]
+              },
+              "type": "inline_keyboard"
+            }
+          ]
+        },
+        "sender": {
+          "user_id": 240009299,
+          "first_name": "Буква4орик",
+          "username": "id290301014391_3_bot",
+          "is_bot": true,
+          "last_activity_time": 1776020554216,
+          "name": "Буква4орик"
+        }
+      },
+      "timestamp": 1775991561320,
+      "user_locale": "ru",
+      "update_type": "message_callback"
+    },
+    {
+      "callback": {
+        "timestamp": 1775991562254,
+        "callback_id": "f9LHodD0cOIpcPXY4WYQbsDrJeG9_obweHvhRUVawJs2dWePqV4x2BWkkVuMasbtJMOZqIRd5uurm4zH_Th2TcnpWy9PCyA1sNGkVkpgl_NQzDvBtF1M",
+        "user": {
+          "user_id": 6084416,
+          "first_name": "Андрей",
+          "last_name": "Самойлов",
+          "is_bot": false,
+          "last_activity_time": 1776020047000,
+          "name": "Андрей Самойлов"
+        },
+        "payload": "5"
+      },
+      "message": {
+        "recipient": {
+          "chat_id": 236099347,
+          "chat_type": "dialog",
+          "user_id": 6084416
+        },
+        "timestamp": 1775991142883,
+        "body": {
+          "mid": "mid.000000000e129713019d815239e31c45",
+          "seq": 116391355539987525,
+          "text": "Это сообщение с клавиатурой\nInline-клавиатура может иметь до 210 кнопок, сгруппированных в 30 рядов — до 7 кнопок в каждом\n(до 3, если это кнопки типа link, openapp, requestgeolocation или requestcontact).",
+          "attachments": [
+            {
+              "payload": {
+                "buttons": [
+                  [
+                    {
+                      "payload": "yes",
+                      "text": "✅ Да",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "no",
+                      "text": "❌ Нет",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ],
+                  [
+                    {
+                      "payload": "1",
+                      "text": "1",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "2",
+                      "text": "2",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "3",
+                      "text": "3",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "4",
+                      "text": "4",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "5",
+                      "text": "5",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "6",
+                      "text": "6",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "7",
+                      "text": "7",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ]
+                ]
+              },
+              "type": "inline_keyboard"
+            }
+          ]
+        },
+        "sender": {
+          "user_id": 240009299,
+          "first_name": "Буква4орик",
+          "username": "id290301014391_3_bot",
+          "is_bot": true,
+          "last_activity_time": 1776020554218,
+          "name": "Буква4орик"
+        }
+      },
+      "timestamp": 1775991562254,
+      "user_locale": "ru",
+      "update_type": "message_callback"
+    },
+    {
+      "callback": {
+        "timestamp": 1775991562601,
+        "callback_id": "f9LHodD0cOIvanFA3Y-k-9-EfvrgaR65dhFHMvdB6Nsj1DTxugMGefpByu3Y5zQ1v8Fcqx5f9IVktUKFeiLHVu2Mmr3I98EzaaAMI05bkrfymUjfABx6",
+        "user": {
+          "user_id": 6084416,
+          "first_name": "Андрей",
+          "last_name": "Самойлов",
+          "is_bot": false,
+          "last_activity_time": 1776020047000,
+          "name": "Андрей Самойлов"
+        },
+        "payload": "4"
+      },
+      "message": {
+        "recipient": {
+          "chat_id": 236099347,
+          "chat_type": "dialog",
+          "user_id": 6084416
+        },
+        "timestamp": 1775991142883,
+        "body": {
+          "mid": "mid.000000000e129713019d815239e31c45",
+          "seq": 116391355539987525,
+          "text": "Это сообщение с клавиатурой\nInline-клавиатура может иметь до 210 кнопок, сгруппированных в 30 рядов — до 7 кнопок в каждом\n(до 3, если это кнопки типа link, openapp, requestgeolocation или requestcontact).",
+          "attachments": [
+            {
+              "payload": {
+                "buttons": [
+                  [
+                    {
+                      "payload": "yes",
+                      "text": "✅ Да",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "no",
+                      "text": "❌ Нет",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ],
+                  [
+                    {
+                      "payload": "1",
+                      "text": "1",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "2",
+                      "text": "2",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "3",
+                      "text": "3",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "4",
+                      "text": "4",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "5",
+                      "text": "5",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "6",
+                      "text": "6",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "7",
+                      "text": "7",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ]
+                ]
+              },
+              "type": "inline_keyboard"
+            }
+          ]
+        },
+        "sender": {
+          "user_id": 240009299,
+          "first_name": "Буква4орик",
+          "username": "id290301014391_3_bot",
+          "is_bot": true,
+          "last_activity_time": 1776020554220,
+          "name": "Буква4орик"
+        }
+      },
+      "timestamp": 1775991562601,
+      "user_locale": "ru",
+      "update_type": "message_callback"
+    },
+    {
+      "callback": {
+        "timestamp": 1775991563260,
+        "callback_id": "f9LHodD0cOIvVQdyvKUwYDJhnkD6xM_D42fdJxWImL8HqjzKerFTk8s0VZHNxP0FaZXS5ap3P-0RKEOGIY229FN5cvo2PsbnfkgzvqfDOddi0fnCiaeR",
+        "user": {
+          "user_id": 6084416,
+          "first_name": "Андрей",
+          "last_name": "Самойлов",
+          "is_bot": false,
+          "last_activity_time": 1776020047000,
+          "name": "Андрей Самойлов"
+        },
+        "payload": "4"
+      },
+      "message": {
+        "recipient": {
+          "chat_id": 236099347,
+          "chat_type": "dialog",
+          "user_id": 6084416
+        },
+        "timestamp": 1775991142883,
+        "body": {
+          "mid": "mid.000000000e129713019d815239e31c45",
+          "seq": 116391355539987525,
+          "text": "Это сообщение с клавиатурой\nInline-клавиатура может иметь до 210 кнопок, сгруппированных в 30 рядов — до 7 кнопок в каждом\n(до 3, если это кнопки типа link, openapp, requestgeolocation или requestcontact).",
+          "attachments": [
+            {
+              "payload": {
+                "buttons": [
+                  [
+                    {
+                      "payload": "yes",
+                      "text": "✅ Да",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "no",
+                      "text": "❌ Нет",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ],
+                  [
+                    {
+                      "payload": "1",
+                      "text": "1",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "2",
+                      "text": "2",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "3",
+                      "text": "3",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "4",
+                      "text": "4",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "5",
+                      "text": "5",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "6",
+                      "text": "6",
+                      "intent": "default",
+                      "type": "callback"
+                    },
+                    {
+                      "payload": "7",
+                      "text": "7",
+                      "intent": "default",
+                      "type": "callback"
+                    }
+                  ]
+                ]
+              },
+              "type": "inline_keyboard"
+            }
+          ]
+        },
+        "sender": {
+          "user_id": 240009299,
+          "first_name": "Буква4орик",
+          "username": "id290301014391_3_bot",
+          "is_bot": true,
+          "last_activity_time": 1776020554221,
+          "name": "Буква4орик"
+        }
+      },
+      "timestamp": 1775991563260,
+      "user_locale": "ru",
+      "update_type": "message_callback"
+    }
+  ],
+  "marker": 31989825
+}
