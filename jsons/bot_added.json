@@ -1,0 +1,17 @@
+{
+  "timestamp": 1776080139811,
+  "chat_id": -73444661955086,
+  "user": {
+    "user_id": 138414350,
+    "first_name": "Сергей",
+    "last_name": "Сберов",
+    "is_bot": false,
+    "last_activity_time": 1776080155000,
+    "avatar_url": "https://i.oneme.ru/i?r=BTFjO43w8Yr1OSJ4tcurq5HiKPy_mE5gdmaGGlA9CBbXR22HIqvc38_B-AXsI6sj2Aw",
+    "full_avatar_url": "https://i.oneme.ru/i?r=BTFjO43w8Yr1OSJ4tcurq5HigUQ1d12-z5CBwismgfBvx22HIqvc38_B-AXsI6sj2Aw",
+    "name": "Сергей Сберов"
+  },
+  "user_id": 138414350,
+  "is_channel": false,
+  "update_type": "bot_added"
+}

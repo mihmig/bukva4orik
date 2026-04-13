@@ -1,0 +1,16 @@
+{
+  "timestamp": 1776080139811,
+  "chat_id": -73444661955086,
+  "user": {
+    "user_id": 149098947,
+    "first_name": "Миша",
+    "last_name": "Билайн",
+    "is_bot": false,
+    "last_activity_time": 1776080147000,
+    "name": "Миша Билайн"
+  },
+  "inviter_id": 138414350,
+  "user_id": 149098947,
+  "is_channel": false,
+  "update_type": "user_added"
+}

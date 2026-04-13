@@ -9,12 +9,18 @@ GET https://platform-api.max.ru/chats
 Authorization: {{access_token}}
 
 ### Получение обновлений
-GET https://platform-api.max.ru/updates?marker=31975589
+GET https://platform-api.max.ru/updates?marker={{marker}}
 Authorization: {{access_token}}
 
-### Получение подписок
+> {% client.global.set("marker", response.body.marker); %}
+
+### Получение подписок (webhook-ов)
 GET https://platform-api.max.ru/subscriptions
 Authorization: {{access_token}}
+
+curl -X GET "https://platform-api.max.ru/chats/{chatId}/members" \
+  -H "Authorization: {access_token}"
+
 
 ### Отправить сообщение пользователю
 POST https://platform-api.max.ru/messages?user_id=138414350
