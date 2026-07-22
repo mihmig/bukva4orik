@@ -1,4 +1,4 @@
-### Получени еинформации о боте
+### Получение информации о боте
 GET https://platform-api.max.ru/me
 Accept: application/json
 Authorization: {{access_token}}
